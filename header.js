@@ -1,11 +1,10 @@
-document.write('\
-<style>\
-a:link{color:#3366FF;}\
-a:visited{color:#9C9D9C;}\
-a:hover{color:#5C85FF;}\
-</style>\
-<link rel="shortcut icon" href="images/mw.ico" />\
-<body link="#3366FF" background="images/tile.jpg">\
+document.write('<style>' +
+'a:link{color:#3366FF;}' +
+'a:visited{color:#9C9D9C;}' +
+'a:hover{color:#5C85FF;}' +
+'</style>' +
+'<link rel="shortcut icon" href="images/mw.ico" />' +
+'<body link="#3366FF" background="images/tile.jpg">' +
 ');
 
 var page=window.location.pathname;
@@ -76,8 +75,8 @@ else{
 }
 
 document.write('
-<font color="white" face="ubuntu">\
-<h1 style="text-align:center;">The Max Weis Page of Various Nonsense</h1>\
-</font>\
-<font color="white" face="Droid Sans">\
+'<font color="white" face="ubuntu">' +
+'<h1 style="text-align:center;">The Max Weis Page of Various Nonsense</h1>' +
+'</font>' +
+'<font color="white" face="Droid Sans">' +
 ');
