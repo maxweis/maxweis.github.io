@@ -16,15 +16,14 @@ body {
         padding:50px;
         /*background-color: #E0F5FF;*/
         background-image: url("/images/background.png");
-        background-repeat: no-repeat;
         /*font:14px/1.5 Lato, "Helvetica Neue", Helvetica, sans-serif;*/
         font:14px/1.5  Helvetica, sans-serif;
-        color:#777;
+        color:#CFCFCF;
         font-weight:300;
 }
 
 h1 {
-        color:#222;
+        color:#F3FFFF;
         margin:0 0 30px 0;
         text-align:center;
 }
@@ -36,11 +35,10 @@ button{
 h2 {
         margin:15px 10%;
         text-align:left;
-        color:#222;
+        color:#A6A6A6;
 }
 h3, h4, h5, h6 {
         margin:5px 15% 0 0;
-        color:#222;
 }
 
 p, ul, ol, table, pre, dl {
