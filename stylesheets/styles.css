@@ -18,12 +18,12 @@ body {
         background-image: url("/images/background.png");
         /*font:14px/1.5 Lato, "Helvetica Neue", Helvetica, sans-serif;*/
         font:14px/1.5  Helvetica, sans-serif;
-        color:#FFFFFF;
+        color:#000000;
         font-weight:300;
 }
 
 h1 {
-        color:#3083FF;
+        color:#003399;
         margin:0 0 30px 0;
         text-align:center;
 }
@@ -35,7 +35,7 @@ button{
 h2 {
         margin:15px 10%;
         text-align:left;
-        color:#818181;
+        color:#FFFFFF;
 }
 h3, h4, h5, h6 {
         margin:5px 15% 0 0;
