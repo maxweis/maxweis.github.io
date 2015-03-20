@@ -44,6 +44,11 @@ button{
         font-weight: bold;
 }
 
+.section{
+        color :#0066FF;
+        font-weight: bold;
+}
+
 h2 {
         font-family: "Droid Sans";
         /*font:16px/1.5  "Droid-Sans", sans-serif;*/
