@@ -38,19 +38,34 @@ button{
 }
 
 h2 {
+        padding: 3px;
         margin:10px 5%;
         background-color: #FFFFFF;
         text-align:left;
         color:#000000;
+        background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+        background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
 }
+
 h3, h4, h5, h6 {
         margin:5px 15% 0 0;
 }
 
 p, ul, ol, table, pre, dl {
-  text-align:left;
+        padding: 6px;
+        text-align:left;
         background-color: #FFFFFF;
-  margin:0 10%; 
+        margin:0 10%; 
+        background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
+        background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
+        background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: -o-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: -ms-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
+        background: linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
 }
 
 a {
