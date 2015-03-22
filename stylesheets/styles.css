@@ -49,11 +49,16 @@ button{
         font-weight: bold;
 }
 
+.border{
+        background-color: #FFFFFF;
+        padding: 5px;
+}
+
 h2 {
         font-family: "Droid Sans";
         /*font:16px/1.5  "Droid-Sans", sans-serif;*/
         padding: 8px;
-        margin:10px 5%;
+        margin:5px 5%;
         background-color: #FFFFFF;
         text-align:left;
         color:#000000;
@@ -75,7 +80,7 @@ p, ul, ol, table, pre, dl {
         padding: 3px;
         text-align:left;
         background-color: #FFFFFF;
-        margin:0 10%; 
+        margin: 10px 10% 30px; 
         background: -moz-linear-gradient(top, #f8f8f8 0%, #dddddd 100%);
         background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#dddddd));
         background: -webkit-linear-gradient(top, #f8f8f8 0%,#dddddd 100%);
