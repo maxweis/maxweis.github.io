@@ -102,6 +102,10 @@ header .header-content .header-content-inner p {
     text-align: center;
 }
 
+.box {
+    display: inline-block;
+}
+
 .content {
     padding: 100px 0;
 }
